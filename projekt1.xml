@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Korisnici>
+	<Korisnik>
+		<Ime>Kazimir</Ime>
+		<Prezime>Horvat</Prezime>
+        <KorisnickoIme>Kaz1</KorisnickoIme>
+		<Lozinka>12345</Lozinka>
+        <Narudzba Sifra="abc1">Samo nek se kreće, Davor Rostuhar</Narudzba>
+        <imge width="100" height="100" src="\vjezba\samo.jpg"/>
+        <img width="100" height="100" src="\vjezba\kaz.png"/>
+		<cijena>100 kn</cijena>
+	</Korisnik>
+
+<Korisnik>
+		<Ime>Renato</Ime>
+		<Prezime>Petković</Prezime>
+        <KorisnickoIme>renci123</KorisnickoIme>
+		<Lozinka>petko012</Lozinka>
+        <Narudzba Sifra="abc1">12 pravila za život, Jordan B. Peterson</Narudzba>
+        <cijena>170 kn</cijena>
+        <imge width="100" height="100" src="\vjezba\12-pravila-za-zivot.jpg"/>
+        <img width="100" height="100" src="\vjezba\renato.jpg"/>
+</Korisnik>
+
+<Korisnik>
+		<Ime>Koraljko</Ime>
+		<Prezime>Greben</Prezime>
+        <KorisnickoIme>nemo123</KorisnickoIme>
+		<Lozinka>123</Lozinka>
+        <Narudzba Sifra="9876">Divljina, Cheryl Strayed</Narudzba>
+        <cijena>70 kn</cijena>
+        <imge width="100" height="100" src="\vjezba\wild.jpg"/>
+        <img width="100" height="100" src="\vjezba\veki.jpg"/>
+</Korisnik>
+
+
+
+
+	
+</Korisnici>
